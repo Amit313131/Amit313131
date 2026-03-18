@@ -1,5 +1,5 @@
 <h1 align = "center"> Hi there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50">, I am Amit Kumar Gupta </h1>
-<h3 align = "center"> I am pursuing Bachelor of Technology in Computer Science and Engineering from Institute of Engineering and Technology, Lucknow! </h3>
+<h3 align="center">I completed my Bachelor of Technology in Computer Science and Engineering from the Institute of Engineering and Technology, Lucknow.</h3>
 
 ---
 <h2 align="center">Languages</h2>
